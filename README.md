@@ -8,8 +8,8 @@ Script PowerShell untuk uninstall **Kaspersky Endpoint Security (KES)** dan **Ka
 
 Script ini menjalankan 2 proses uninstall secara berurutan:
 
-1. **Process 1** — Uninstall Kaspersky Endpoint Security menggunakan `msiexec.exe` dengan GUID yang diambil otomatis dari registry.
-2. **Process 2** — Uninstall Kaspersky Security Center Network Agent menggunakan `cleaner.exe` yang disalin dari network share.
+1. **Process 1** - Uninstall Kaspersky Endpoint Security menggunakan `msiexec.exe` dengan GUID yang diambil otomatis dari registry.
+2. **Process 2** - Uninstall Kaspersky Security Center Network Agent menggunakan `cleaner.exe` yang disalin dari network share.
 
 ---
 
