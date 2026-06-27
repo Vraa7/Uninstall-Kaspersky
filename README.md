@@ -120,10 +120,3 @@ START
 
 📄 uninstall-kaspersky.ps1     # Script utama (file ini)
 ```
-
----
-
-## Dibuat Oleh
-
-Internal use — PT Digital Solusi Grup (DSG)  
-Security Engineer Internship
